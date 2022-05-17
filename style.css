@@ -1,0 +1,18 @@
+#cachorro{
+    width: 500px;
+    height: 550px;
+    margin: 50px;
+    padding: 0px;
+}  
+
+#img-cachorro{
+    margin-bottom: -10px;
+    width: 180px;
+}
+
+.poraloide{
+    width: 250px;
+    z-index: 999;
+    position: absolute;
+    top: 350px;
+}
